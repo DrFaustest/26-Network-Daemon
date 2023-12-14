@@ -1,0 +1,16 @@
+2023-12-13 22:35:19 - RUN - Processed 20 IP-MAC pairs.
+2023-12-13 22:35:48 - RUN - Processed 20 IP-MAC pairs.
+2023-12-13 22:39:42 - RUN - Processed 20 IP-MAC pairs.
+2023-12-13 22:43:06 - RUN - Processed 20 IP-MAC pairs.
+2023-12-13 22:49:49 - RUN - API Call Successful: *NO COMPANY*
+2023-12-13 22:49:49 - RUN - API Call Successful: Microsoft
+2023-12-13 22:49:50 - RUN - API Call Successful: Hui Zhou Gaoshengda Technology Co.,LTD
+2023-12-13 22:49:50 - RUN - API Call Successful: Zyxel Communications Corporation
+2023-12-13 22:49:51 - RUN - API Call Successful: Microsoft
+2023-12-13 22:49:51 - RUN - API Call Successful: *NO COMPANY*
+2023-12-13 22:49:52 - RUN - API Call Successful: Amazon Technologies Inc.
+2023-12-13 22:49:52 - RUN - API Call Successful: Amazon Technologies Inc.
+2023-12-13 22:49:53 - RUN - API Call Successful: Hui Zhou Gaoshengda Technology Co.,LTD
+2023-12-13 22:49:53 - RUN - API Call Successful: FIREWALLA INC
+2023-12-13 22:49:54 - RUN - API Call Successful: *NO COMPANY*
+2023-12-13 22:49:54 - RUN - Processed 20 IP-MAC pairs.
