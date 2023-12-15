@@ -14,3 +14,17 @@
 2023-12-13 22:49:53 - RUN - API Call Successful: FIREWALLA INC
 2023-12-13 22:49:54 - RUN - API Call Successful: *NO COMPANY*
 2023-12-13 22:49:54 - RUN - Processed 20 IP-MAC pairs.
+2023-12-14 20:01:27 - RUN - API Call Successful: Amazon Technologies Inc.
+2023-12-14 20:01:27 - RUN - API Call Successful: Samsung Electronics Co.,Ltd
+2023-12-14 20:01:28 - RUN - API Call Successful: FIREWALLA INC
+2023-12-14 20:01:28 - RUN - API Call Successful: Microsoft Corporation
+2023-12-14 20:01:29 - RUN - API Call Successful: Amazon Technologies Inc.
+2023-12-14 20:01:29 - RUN - API Call Successful: Amazon Technologies Inc.
+2023-12-14 20:01:30 - RUN - API Call Successful: Amazon Technologies Inc.
+2023-12-14 20:01:30 - RUN - API Call Successful: NETGEAR
+2023-12-14 20:01:31 - RUN - API Call Successful: *NO COMPANY*
+2023-12-14 20:01:31 - RUN - API Call Successful: *NO COMPANY*
+2023-12-14 20:01:32 - RUN - API Call Successful: Microsoft
+2023-12-14 20:01:32 - RUN - API Call Successful: *NO COMPANY*
+2023-12-14 20:01:33 - RUN - API Call Successful: *NO COMPANY*
+2023-12-14 20:01:33 - RUN - Processed 22 IP-MAC pairs.

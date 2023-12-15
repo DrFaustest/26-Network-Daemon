@@ -1,1 +1,39 @@
-This is a python program that pings the network, gets the IP address and MAC address of the devices connected to the network and stores it in a database then searches for the device manufacturer using the MAC address and stores it in the database.
+ABOUT.TXT for Network Device Identifier Program
+
+Program Description:
+This program is a network device identifier tool designed to scan a network, identify devices by their IP and MAC addresses, and retrieve the manufacturer information of each device. It operates by executing a network scan, logging results, and interacting with an external API for manufacturer details.
+
+Key Features:
+1. Network Scanning: Uses the 'arp' command to find active devices on the network, extracting their IP and MAC addresses.
+2. Manufacturer Identification: Fetches the manufacturer's name of a device using its MAC address through an external API.
+3. Logging System: Maintains three types of logs - error logs, runtime logs, and JSON data logs for tracking various events and data.
+4. Data Storage: Stores the IP address, MAC address, and manufacturer information in a CSV file for future reference.
+
+Modules and Libraries Used:
+1. subprocess - To execute system commands for network scanning.
+2. re - Regular expression operations for parsing command output.
+3. requests - For making HTTP requests to the external API.
+4. csv - For writing data to a CSV file.
+5. datetime - For timestamping log entries.
+
+Functions:
+1. log_error(message): Logs error messages with timestamps.
+2. log_run(message): Logs runtime events.
+3. log_json(data): Logs JSON data received from the API.
+4. ping_network(): Scans the network and returns IP-MAC pairs.
+5. get_device_manufacturer(mac_address): Retrieves the manufacturer's name using the MAC address.
+6. store_data(ip_address, mac_address, manufacturer): Stores data in a CSV file.
+
+Usage:
+- Execute the program to scan the network.
+- Check 'storage.csv' for the list of devices and their manufacturers.
+- Review 'errorLog.txt', 'runLog.txt', and 'jsonLog.txt' for logs.
+
+Note:
+- Ensure you have internet connectivity for the API calls.
+- Run the program with appropriate permissions for network scanning.
+- API limits and network configurations may affect the program's functionality.
+
+Version: 1.0
+Author: Scott Faust
+Date: 12/24/2023
